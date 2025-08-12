@@ -1,0 +1,38 @@
+class Solution {
+    vector<int> powers;
+#define mod 1000000007
+    int fastexpo(int n, int x) { return pow(n, x); }
+
+    int f(int tgt, int idx, vector<vector<int>>& dp) {
+
+        if (tgt == 0)
+            return 1;
+        // if(idx==0 && tgt ==0) return 1;
+        if (idx < 0 && tgt != 0)
+            return 0;
+        if (dp[tgt][idx] != -1)
+            return dp[tgt][idx];
+
+        int take = 0;
+        if (tgt - powers[idx] >= 0)
+            take = f(tgt - powers[idx], idx - 1, dp);
+        int nottake = f(tgt, idx - 1, dp);
+
+        return dp[tgt][idx] = take + nottake %mod;
+    }
+
+public:
+    int numberOfWays(int n, int x) {
+
+        for (int i = 1; i <= n; i++) {
+            int power = fastexpo(i, x);
+            if (power > n)
+                break;
+
+            powers.push_back(power);
+        }
+        vector<vector<int>> dp(n + 1, vector<int>(powers.size(), -1));
+
+        return f(n, powers.size() - 1, dp);
+    }
+};
