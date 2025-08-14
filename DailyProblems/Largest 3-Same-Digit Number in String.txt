@@ -1,0 +1,14 @@
+class Solution {
+public:
+    string largestGoodInteger(string num) {
+        string ans="";
+        string maxm = "";
+        for(int i = 2; i<num.size() ;i++){
+            if(num[i]==num[i-1] && num[i-2]==num[i]){
+              string tri(3 ,  num[i]);
+                maxm = max(tri , maxm);
+            }
+        }
+        return maxm;
+    }
+};
