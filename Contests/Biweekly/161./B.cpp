@@ -2,7 +2,7 @@
 
 #include <bits/stdc++.h>
 using ll = long long;
-#define f(i, n) for (ll i = 0; (i) < (n); (i)++)
+#define f(i, n) for (ll i = 0; (i) < (n); (i)++) 
 using namespace std;
 #define yes cout << "YES\n"
 #define no cout << "NO\n"
