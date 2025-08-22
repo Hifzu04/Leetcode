@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int minimumArea(vector<vector<int>>& grid) {
+        int n = grid.size(); int m = grid[0].size();
+        int maxrow = -1 ; 
+        int maxcol  =-1;
+        int minrow = 10000000;
+        int mincol = 10000000;
+        for(int i = 0 ; i<n ; i++){
+            for(int j =0 ; j<m; j++){
+                if(grid[i][j]==1){
+                    minrow = min(i, minrow);
+                    mincol = min(j, mincol);
+                    maxrow= max(i, maxrow);
+                    maxcol = max(j,maxcol);
+
+                }
+            }
+        } 
+
+        return (maxcol-mincol+1)*(maxrow-minrow+1);
+       
+    }
+};
