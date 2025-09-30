@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Hifzu04/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Hifzu04/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Hifzu04/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/Hifzu04/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0498-diagonal-traverse](https://github.com/Hifzu04/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hifzu04/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Hifzu04/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Hifzu04/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Hifzu04/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/Hifzu04/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hifzu04/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Hifzu04/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hifzu04/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Hifzu04/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2887-sort-vowels-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hifzu04/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hifzu04/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Hifzu04/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hifzu04/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Hifzu04/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hifzu04/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
