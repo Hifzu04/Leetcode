@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hifzu04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hifzu04/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Hifzu04/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hifzu04/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hifzu04/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Hifzu04/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hifzu04/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hifzu04/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/3462-vowels-game-in-a-string) |
