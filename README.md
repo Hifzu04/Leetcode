@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hifzu04/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hifzu04/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/Hifzu04/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hifzu04/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hifzu04/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hifzu04/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Hifzu04/Leetcode/tree/master/0037-sudoku-solver) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/Hifzu04/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Hifzu04/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2169-simple-bank-system](https://github.com/Hifzu04/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Hifzu04/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Hifzu04/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Hifzu04/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hifzu04/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
