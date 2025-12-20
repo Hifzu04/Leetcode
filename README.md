@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Hifzu04/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hifzu04/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Hifzu04/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Hifzu04/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Hifzu04/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Hifzu04/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/Hifzu04/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
