@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hifzu04/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Hifzu04/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Hifzu04/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Hifzu04/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Hifzu04/Leetcode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hifzu04/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Hifzu04/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/Hifzu04/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hifzu04/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hifzu04/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Hifzu04/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hifzu04/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hifzu04/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hifzu04/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Hifzu04/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Hifzu04/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Hifzu04/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
