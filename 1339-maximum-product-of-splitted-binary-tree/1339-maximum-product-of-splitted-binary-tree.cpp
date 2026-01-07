@@ -16,17 +16,13 @@ public:
     long maxSum  = 0 ; 
     int Total(TreeNode* root){
         if(!root) return 0;
-        int left = Total(root->left);
-        int right = Total(root->right);
-        int tot = left+ right+ root->val;
-        return tot;
+       return  Total(root->left)+  Total(root->right)+ root->val;
+       
     }
     int maxSumfunc(TreeNode* root){
         if(!root) return 0 ;
 
-         int left = maxSumfunc(root->left);
-        int right = maxSumfunc(root->right);
-        long sub = left+ right+ root->val;
+        long sub =  maxSumfunc(root->left)+ maxSumfunc(root->right)+ root->val;
         long other = totSum - sub;
         long prod = sub*other;
         maxSum = max(maxSum , prod);
