@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hifzu04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hifzu04/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Hifzu04/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hifzu04/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hifzu04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Hifzu04/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Hifzu04/Leetcode/tree/master/0037-sudoku-solver) |
 | [0433-minimum-genetic-mutation](https://github.com/Hifzu04/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hifzu04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Hifzu04/Leetcode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0433-minimum-genetic-mutation](https://github.com/Hifzu04/Leetcode/tree/master/0433-minimum-genetic-mutation) |
