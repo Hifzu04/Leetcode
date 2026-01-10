@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Hifzu04/Leetcode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Hifzu04/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Hifzu04/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/Hifzu04/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Hifzu04/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Hifzu04/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hifzu04/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
