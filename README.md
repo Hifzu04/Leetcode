@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Hifzu04/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Hifzu04/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hifzu04/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hifzu04/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hifzu04/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Hifzu04/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Hifzu04/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Hifzu04/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Hifzu04/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Hifzu04/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Hifzu04/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hifzu04/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hifzu04/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hifzu04/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hifzu04/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hifzu04/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Hifzu04/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Hifzu04/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Hifzu04/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hifzu04/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hifzu04/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
@@ -588,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Hifzu04/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
