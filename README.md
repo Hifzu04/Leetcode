@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Hifzu04/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/Hifzu04/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Hifzu04/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hifzu04/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hifzu04/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Hifzu04/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0645-set-mismatch](https://github.com/Hifzu04/Leetcode/tree/master/0645-set-mismatch) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/Hifzu04/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hifzu04/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Hifzu04/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
