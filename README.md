@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Hifzu04/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Hifzu04/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hifzu04/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Hifzu04/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Hifzu04/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Hifzu04/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Hifzu04/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hifzu04/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Hifzu04/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Hifzu04/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Hifzu04/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Hifzu04/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
