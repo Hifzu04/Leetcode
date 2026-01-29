@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Hifzu04/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Hifzu04/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Hifzu04/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Hifzu04/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Hifzu04/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Hifzu04/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Hifzu04/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Hifzu04/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Hifzu04/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Hifzu04/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Hifzu04/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Hifzu04/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hifzu04/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
@@ -633,5 +636,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Hifzu04/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hifzu04/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
