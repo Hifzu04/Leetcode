@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Hifzu04/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Hifzu04/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hifzu04/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Hifzu04/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Hifzu04/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hifzu04/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Hifzu04/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Hifzu04/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Hifzu04/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/Hifzu04/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Hifzu04/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Hifzu04/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Hifzu04/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Hifzu04/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hifzu04/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hifzu04/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Hifzu04/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Hifzu04/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Hifzu04/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Doubly-Linked List
 |  |
 | ------- |
