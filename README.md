@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Hifzu04/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Hifzu04/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Hifzu04/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Hifzu04/Leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Hifzu04/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Hifzu04/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Hifzu04/Leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Hifzu04/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hifzu04/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Hifzu04/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Hifzu04/Leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hifzu04/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Hifzu04/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Hifzu04/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Hifzu04/Leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Brainteaser
 |  |
 | ------- |
