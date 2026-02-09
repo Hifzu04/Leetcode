@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hifzu04/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hifzu04/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hifzu04/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Hifzu04/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hifzu04/Leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Hifzu04/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hifzu04/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hifzu04/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Hifzu04/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Hifzu04/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -578,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
