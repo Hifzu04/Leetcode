@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hifzu04/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hifzu04/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hifzu04/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Hifzu04/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Hifzu04/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Hifzu04/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Hifzu04/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hifzu04/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Hifzu04/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hifzu04/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Hifzu04/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Hifzu04/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Hifzu04/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hifzu04/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Hifzu04/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Hifzu04/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hifzu04/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hifzu04/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Hifzu04/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Hifzu04/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bitmask
 |  |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Hifzu04/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3454-separate-squares-ii](https://github.com/Hifzu04/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Hifzu04/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Hifzu04/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Number Theory
 |  |
 | ------- |
