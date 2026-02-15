@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Hifzu04/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Hifzu04/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Hifzu04/Leetcode/tree/master/1642-water-bottles) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Hifzu04/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hifzu04/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Hifzu04/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Hifzu04/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Hifzu04/Leetcode/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Hifzu04/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Hifzu04/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hifzu04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Hifzu04/Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Hifzu04/Leetcode/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0433-minimum-genetic-mutation](https://github.com/Hifzu04/Leetcode/tree/master/0433-minimum-genetic-mutation) |
