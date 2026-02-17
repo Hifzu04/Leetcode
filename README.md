@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Hifzu04/Leetcode/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Hifzu04/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Hifzu04/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Hifzu04/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Hifzu04/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Hifzu04/Leetcode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Hifzu04/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Hifzu04/Leetcode/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Hifzu04/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Hifzu04/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
