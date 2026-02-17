@@ -17,7 +17,7 @@ public:
         }
         if(p[low][high] != -1) return p[low][high];
         if(s[low] == s[high]){
-           return  p[low][high]= checkPal(s , low+1 , high-1);
+           return  p[low][high]= checkPalMem(s , low+1 , high-1);
         }
 
         return  p[low][high]= 0;
@@ -34,7 +34,7 @@ public:
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
 
-                if (checkPalMem(s, i, j) && (j - i + 1) > maxLen) {
+                if ((j - i + 1) > maxLen && checkPalMem(s, i, j) ) {
                     start = i;
                     maxLen = j - i + 1;
                 }
