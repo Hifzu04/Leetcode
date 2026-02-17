@@ -13,9 +13,9 @@ public:
      int p[1001][10001];
      bool checkPalMem(string& s, int low, int high) {
         if(low  > high){
-          return  p[low][high] = 1 ;
+          return   1 ;
         }
-          if(p[low][high] != -1) return p[low][high];
+        if(p[low][high] != -1) return p[low][high];
         if(s[low] == s[high]){
            return  p[low][high]= checkPal(s , low+1 , high-1);
         }
