@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Hifzu04/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Hifzu04/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Hifzu04/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1046-last-stone-weight](https://github.com/Hifzu04/Leetcode/tree/master/1046-last-stone-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Hifzu04/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Hifzu04/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Hifzu04/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0743-network-delay-time](https://github.com/Hifzu04/Leetcode/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/Hifzu04/Leetcode/tree/master/1046-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/Hifzu04/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hifzu04/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
