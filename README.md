@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Hifzu04/Leetcode/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0433-minimum-genetic-mutation](https://github.com/Hifzu04/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0459-repeated-substring-pattern](https://github.com/Hifzu04/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Hifzu04/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Hifzu04/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Hifzu04/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -784,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Hifzu04/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Hifzu04/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
