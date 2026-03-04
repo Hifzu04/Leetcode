@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Hifzu04/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Hifzu04/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hifzu04/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Hifzu04/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0840-magic-squares-in-grid](https://github.com/Hifzu04/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Hifzu04/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hifzu04/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Hifzu04/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Hifzu04/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hifzu04/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Hifzu04/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/Hifzu04/Leetcode/tree/master/0868-binary-gap) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Hifzu04/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Hifzu04/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hifzu04/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Hifzu04/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/Hifzu04/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hifzu04/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union Find
