@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Hifzu04/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hifzu04/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Hifzu04/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hifzu04/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Memoization
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hifzu04/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Hifzu04/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Hifzu04/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Hifzu04/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Hifzu04/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Hifzu04/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Hifzu04/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Hifzu04/Leetcode/tree/master/0796-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Hifzu04/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
