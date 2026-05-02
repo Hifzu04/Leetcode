@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Hifzu04/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hifzu04/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Hifzu04/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0788-rotated-digits](https://github.com/Hifzu04/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Hifzu04/Leetcode/tree/master/0799-champagne-tower) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Hifzu04/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Hifzu04/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Hifzu04/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Hifzu04/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/Hifzu04/Leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Hifzu04/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Hifzu04/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hifzu04/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
