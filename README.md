@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Hifzu04/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hifzu04/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Hifzu04/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Hifzu04/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hifzu04/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Hifzu04/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hifzu04/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Hifzu04/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Hifzu04/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Hifzu04/Leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hifzu04/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hifzu04/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hifzu04/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Memoization
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hifzu04/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hifzu04/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Hifzu04/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Hifzu04/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Hifzu04/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Hifzu04/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Hifzu04/Leetcode/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hifzu04/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hifzu04/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
 |  |
