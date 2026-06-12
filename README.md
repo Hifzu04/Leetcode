@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Hifzu04/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hifzu04/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Hifzu04/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hifzu04/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hifzu04/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Hifzu04/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hifzu04/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Hifzu04/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/Hifzu04/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Hifzu04/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Hifzu04/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hifzu04/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hifzu04/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Hifzu04/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hifzu04/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hifzu04/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Hifzu04/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hifzu04/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Hifzu04/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Hifzu04/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Hifzu04/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Hifzu04/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -724,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Hifzu04/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hifzu04/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Hifzu04/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Hifzu04/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Hifzu04/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Hifzu04/Leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
