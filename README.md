@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hifzu04/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hifzu04/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Hifzu04/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Hifzu04/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3863-power-grid-maintenance](https://github.com/Hifzu04/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Hifzu04/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hifzu04/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hifzu04/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hifzu04/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Hifzu04/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Hifzu04/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Hifzu04/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hifzu04/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hifzu04/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Hifzu04/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Hifzu04/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hifzu04/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hifzu04/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Hifzu04/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Hifzu04/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hifzu04/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
