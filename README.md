@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Hifzu04/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Hifzu04/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hifzu04/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Hifzu04/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hifzu04/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Hifzu04/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Hifzu04/Leetcode/tree/master/0799-champagne-tower) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Hifzu04/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
+| [1301-number-of-paths-with-max-score](https://github.com/Hifzu04/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hifzu04/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hifzu04/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Hifzu04/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/Hifzu04/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Hifzu04/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Hifzu04/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hifzu04/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hifzu04/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
