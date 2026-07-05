@@ -1,0 +1,16 @@
+# Write your MySQL query statement below
+
+
+## who visited  didnt make any txn
+
+-- select customer_id , count(visit_id) as count_no_trans from Visits 
+-- where visit_id not in (select distinct visit_id from Transactions)
+-- group by customer_id;
+
+
+
+select customer_id , count(*) as count_no_trans
+from Visits v 
+left join Transactions t on v.visit_id = t.visit_id
+where t.visit_id is null
+group by customer_id;
