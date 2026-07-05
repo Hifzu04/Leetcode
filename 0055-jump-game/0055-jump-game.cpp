@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+   //O(n^2)
     int t[10004];
      bool f(int idx , vector<int>& nums){
         if(idx == nums.size()-1) return true;
@@ -17,6 +19,9 @@ public:
         return f(0 , nums);
     }
 };
+
+
+//bottom up
 
 
 
