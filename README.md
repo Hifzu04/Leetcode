@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hifzu04/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hifzu04/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Hifzu04/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Hifzu04/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hifzu04/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Hifzu04/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Hifzu04/Leetcode/tree/master/0066-plus-one) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hifzu04/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Hifzu04/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hifzu04/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Hifzu04/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hifzu04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hifzu04/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Hifzu04/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hifzu04/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hifzu04/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Hifzu04/Leetcode/tree/master/0678-valid-parenthesis-string) |
