@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hifzu04/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hifzu04/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Hifzu04/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hifzu04/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Hifzu04/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hifzu04/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hifzu04/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Hifzu04/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Hifzu04/Leetcode/tree/master/3454-separate-squares-ii) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Hifzu04/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Hifzu04/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hifzu04/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/Hifzu04/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hifzu04/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3462-vowels-game-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Hifzu04/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Hifzu04/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Hifzu04/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hifzu04/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -934,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Hifzu04/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/Hifzu04/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Hifzu04/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Hifzu04/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3713-longest-balanced-substring-i](https://github.com/Hifzu04/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hifzu04/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -968,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Hifzu04/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
@@ -1002,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Hifzu04/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hifzu04/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Hifzu04/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Hifzu04/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Hifzu04/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hifzu04/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1038,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Hifzu04/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hifzu04/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hifzu04/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Hifzu04/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
