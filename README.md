@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0433-minimum-genetic-mutation](https://github.com/Hifzu04/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0459-repeated-substring-pattern](https://github.com/Hifzu04/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/Hifzu04/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Hifzu04/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Hifzu04/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Hifzu04/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hifzu04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Hifzu04/Leetcode/tree/master/0189-rotate-array) |
+| [0481-magical-string](https://github.com/Hifzu04/Leetcode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Hifzu04/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/Hifzu04/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1129-longest-string-chain](https://github.com/Hifzu04/Leetcode/tree/master/1129-longest-string-chain) |
