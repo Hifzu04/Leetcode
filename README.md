@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hifzu04/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hifzu04/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hifzu04/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hifzu04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Hifzu04/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hifzu04/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Hifzu04/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hifzu04/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Hifzu04/Leetcode/tree/master/0072-edit-distance) |
@@ -1329,4 +1331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Hifzu04/Leetcode/tree/master/1872-stone-game-viii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hifzu04/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
