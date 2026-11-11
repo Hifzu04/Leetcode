@@ -9,10 +9,14 @@ public:
     
     void checkIn(int id, string stationName, int t) {
         checkinMap[id] = {stationName , t};
+
     }
     
     void checkOut(int id, string stationName, int t) {
         auto checkin = checkinMap[id];                    // stname , t
+        checkinMap.erase(id);     //Remove after using it
+    
+        
         
         string route = checkin.first + "_" + stationName;
         totalmap[route].first += t - checkin.second;
