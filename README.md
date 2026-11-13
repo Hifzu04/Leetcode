@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Hifzu04/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hifzu04/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Hifzu04/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/Hifzu04/Leetcode/tree/master/1472-design-browser-history) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hifzu04/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hifzu04/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Hifzu04/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Hifzu04/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/Hifzu04/Leetcode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hifzu04/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hifzu04/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Hifzu04/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Hifzu04/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Hifzu04/Leetcode/tree/master/1472-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hifzu04/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Hifzu04/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Hifzu04/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -1183,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Hifzu04/Leetcode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hifzu04/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1396-design-underground-system](https://github.com/Hifzu04/Leetcode/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/Hifzu04/Leetcode/tree/master/1472-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/Hifzu04/Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Hifzu04/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Hifzu04/Leetcode/tree/master/2169-simple-bank-system) |
@@ -1297,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Hifzu04/Leetcode/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Hifzu04/Leetcode/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hifzu04/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Hifzu04/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Shortest Path
@@ -1357,4 +1362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Hifzu04/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Hifzu04/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
