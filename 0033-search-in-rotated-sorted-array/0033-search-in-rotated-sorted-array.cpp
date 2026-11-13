@@ -1,55 +1,46 @@
 class Solution {
 public:
-     
-     int binarySearch(vector<int>&nums , int i , int j , int target){
-        while(i<= j){
-            int mid = i + (j-i) /2;
-            if(nums[mid] == target){
-                return mid;
-            }else if (nums[mid] < target){
-                i = mid+1;
-            }else {
-                j = mid-1;
-            }
+   int findPivot(int s , int e , vector<int>& nums){
+    while(s < e){
+        int mid = s +(e-s)/2; 
+        if(nums[mid] > nums[e]){
+            s = mid+1 ;
+        }else {
+                e = mid; 
         }
-        return -1 ;
-     }
-   
-    int findpivot(vector<int>& nums, int i, int j) {
-
-        while (i <= j) {
-            if (nums[i] <= nums[j]) {
-                return i;
-            }
-            int mid = i + (j - i) / 2;
-            if (nums[mid] > nums[j]) {
-                i = mid + 1;
-            } else {
-                j = mid ;
-            }
-        }
-        return i;
     }
+    return s; 
+   }
+     
+    int gettgt(int s , int e , vector<int>& nums , int target){
+       while(s <= e){
+         int mid = s+ (e-s) /2 ; 
+         if(nums[mid] == target) {
+            return mid;
+         }else if (nums[mid] < target){
+            s = mid +1 ;
+         }else {
+            e = mid -1 ;
+         }
+       }
+       return -1 ;
+    }
+
     int search(vector<int>& nums, int target) {
         int n = nums.size();
-        // Pivot return index of min ele
-        int pivot = findpivot(nums, 0, n - 1);
-
-        if (nums[pivot] == target) {
-            return pivot;
+        int pivotidx = findPivot(0 , n-1 , nums);
+        int tgt = -1 ;
+        tgt  = gettgt(0 , pivotidx-1 , nums, target);
+        if (tgt != -1  ){
+            return tgt;
         }
+        tgt = gettgt( pivotidx , n-1 , nums, target);
 
-        if (pivot == 0)
-            return binarySearch(nums, 0, n - 1, target);
-
-        if (nums[0] <= target)
-            return binarySearch(nums, 0, pivot - 1, target);
-
-        return binarySearch(nums, pivot + 1, n - 1, target);
+        return tgt ; 
     }
 };
 
-// 3 approach
-// 1 : U know
-// 2 : divide the nums into 2 sorted array and apply binary search
-// 3  : dont divide , just keep on finding
+
+//pivot index ;  
+//find (0 , pivot idx -1 ) -> binaryserach
+// find(pivot idx , n-1 ); -> binary serach
