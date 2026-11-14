@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Hifzu04/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Hifzu04/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Hifzu04/Leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Hifzu04/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Hifzu04/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Hifzu04/Leetcode/tree/master/0066-plus-one) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Hifzu04/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Hifzu04/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Hifzu04/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Hifzu04/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Hifzu04/Leetcode/tree/master/0147-insertion-sort-list) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hifzu04/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Hifzu04/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Hifzu04/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hifzu04/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Hifzu04/Leetcode/tree/master/0139-word-break) |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hifzu04/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Hifzu04/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hifzu04/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Hifzu04/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Hifzu04/Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Hifzu04/Leetcode/tree/master/0139-word-break) |
