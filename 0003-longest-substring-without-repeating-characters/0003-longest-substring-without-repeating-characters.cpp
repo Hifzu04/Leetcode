@@ -1,23 +1,25 @@
 class Solution {
 public:
+   // (O(N)^2)  tle
     int lengthOfLongestSubstring(string s) {
-        int n = s.size();
-        if (n == 0) return 0;
-
-        int maxlen = 1;
-
-        for (int i = 0; i < n; i++) {
-            unordered_set<char> st;
-            st.insert(s[i]);
-            int currsize = 1;
-
-            for (int j = i + 1; j < n; j++) {
-                if (st.count(s[j])) break;
-                st.insert(s[j]);
-                currsize++;
+         int left = 0 ; 
+         unordered_set<char>st;
+         int ans = 0 ;
+         for(int r = 0 ; r<s.size() ; r++){
+            while(st.find(s[r]) != st.end()){
+                st.erase(s[left]);
+                left++ ;
             }
-            maxlen = max(maxlen, currsize);
-        }
-        return maxlen;
+            st.insert(s[r]);
+            ans = max(ans , r-left +1);
+         }
+         return ans;
     }
 };
+
+/*
+
+ s =
+
+
+*/
