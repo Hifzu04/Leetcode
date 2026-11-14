@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Hifzu04/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Hifzu04/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hifzu04/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Hifzu04/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Hifzu04/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hifzu04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hifzu04/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hifzu04/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Hifzu04/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Hifzu04/Leetcode/tree/master/0509-fibonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Hifzu04/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Hifzu04/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hifzu04/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Hifzu04/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hifzu04/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hifzu04/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Hifzu04/Leetcode/tree/master/0263-ugly-number) |
