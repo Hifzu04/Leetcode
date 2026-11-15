@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hifzu04/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hifzu04/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Hifzu04/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hifzu04/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Hifzu04/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hifzu04/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Hifzu04/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -1139,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hifzu04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Hifzu04/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hifzu04/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hifzu04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Hifzu04/Leetcode/tree/master/0169-majority-element) |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hifzu04/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Hifzu04/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hifzu04/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Randomized
@@ -1419,4 +1423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hifzu04/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hifzu04/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
