@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Hifzu04/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hifzu04/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hifzu04/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Hifzu04/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Hifzu04/Leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Hifzu04/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Hifzu04/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Hifzu04/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Hifzu04/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hifzu04/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1396-design-underground-system](https://github.com/Hifzu04/Leetcode/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Hifzu04/Leetcode/tree/master/1472-design-browser-history) |
